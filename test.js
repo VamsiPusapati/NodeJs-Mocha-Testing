@@ -26,8 +26,8 @@ describe('Calculator Tests', function() {
 			done();
 		});
 
-		it('returns 0 * 4 = 4', function(done) {
-			assert.equal(calc.mul(2, 2), 4);
+		it('returns 0 * 4 = 0', function(done) {
+			assert.equal(calc.mul(0, 4), 0);
 			done();
 		});
 	});
