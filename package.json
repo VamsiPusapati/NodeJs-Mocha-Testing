@@ -6,10 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "VamsiPusapati",
   "license": "ISC",
   "dependencies": {
-    
+
     "mocha": "^3.2.0"
   }
 }
